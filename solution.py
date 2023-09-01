@@ -1,4 +1,5 @@
 user_input = input("Give me a word: ")
+user_input = user_input.lower()
 user_input = user_input.capitalize()
 consonant = "a, e, u, o, i"
 
